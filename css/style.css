@@ -1,0 +1,347 @@
+.html {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+vertical-align: middle;
+
+color: #30CBC2;
+margin-right: 60px;
+
+}
+.main {
+    display: inline-block;
+}
+
+.newscontacts {
+    display: inline-block;
+}
+.main {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    
+    color: #4E6FAE;
+    vertical-align: middle;
+    margin-right: 87px;
+}
+.newscontacts {
+    font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+
+color: #8D81FF;
+vertical-align: middle;
+margin-right: 81px;
+}
+
+
+
+.div1 {
+    height: 50px;
+    width: 50px;
+    background-color:  #5012D5;
+    margin-top: 44px;
+}
+.div1p1 {
+    
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #84FF81;
+margin-left: 11px;
+margin-top: 8px;
+
+}
+.secp1 {
+    font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #4E6FAE;
+
+}
+.may {
+    font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #8D81FF;
+margin-top: 8px;
+margin-bottom: 8px;
+}
+.sectionimg1 {
+    margin-top: 13px;
+  
+}
+.text2 {
+    display: inline-block;
+    width: 778px;
+    height: 281px;
+    margin-left: 66px;
+    margin-top: 13px;
+    vertical-align: top;
+}
+.div2p1 {
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #4E6FAE;
+
+}
+.div3 {
+    margin-top: 167px;
+    display: inline-block;
+    background-color:  #5012D5;
+    height: 50px;
+    width: 50px;
+}
+.div3p1 {
+  
+
+ display: inline-block;
+ color:  #84FF81;
+ font-size: 24px;
+ margin-left: 11px;
+ margin-top: 8px;
+ 
+}
+.may27 {
+    margin-top: 14px;
+    font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #8D81FF;
+}
+.devs {
+    margin-top: 14px;
+    font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #4E6FAE;
+}
+.slashimg {
+    margin-top: 14px;
+   
+}
+.text200 {
+  display: inline-block;
+    width: 778px;
+height: 280px;
+margin-left: 66px;
+margin-top: 13px;
+vertical-align: top;
+}
+.text201 {
+    font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #4E6FAE;
+
+}
+.div3p23 {
+    height: 50px;
+    width: 50px;
+    background-color:  #5012D5;
+    margin-top: 155px;
+}
+
+.div3p2 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #84FF81;
+    margin-left: 11px;
+    margin-top: 8px;
+    
+}
+.idkmay {
+    font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #8D81FF;
+margin-top: 14px;
+
+}
+.devs123 {
+    font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #4E6FAE;
+margin-top: 14px;
+}
+.pcpht {
+    margin-top: 14px;
+}
+
+.TextN3 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #4E6FAE;
+}
+.fb {
+ margin-top: 143px;
+ display: inline-block;
+
+}
+.line {
+    margin-left: 41px;
+}
+.yt {
+    margin-left: 41px;
+}
+.nav {
+    display: inline-block;
+}
+.container {
+
+    width: 1052px;
+  margin-left: 194px;
+
+}
+.HeAder2 {
+    margin-bottom: 85px;
+}
+.sxlimg {
+    vertical-align: middle;
+  
+}
+.sxl1 {
+   vertical-align: middle;
+   margin-right: 18px;
+ font-size: 26px;
+
+   color: #4E6FAE;
+
+}
+.sxl2 {
+    vertical-align: middle;
+    margin-left: 17px;
+    Font-size: 26px;
+    color: #4E6FAE;
+}
+.sxl {
+    margin-left: 194px;
+    margin-top: 120px;
+}
+.Sec2Div2 {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    margin-right: 52px;
+    vertical-align: top;
+}
+.Sec2Div3 {
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    vertical-align: top;
+}
+.MainDiv {
+    margin-top: 26px;
+    margin-left: 194px;
+}
+.Sec2div2p1 {
+    color: #3F4145;
+    Font-size: 20px;
+    margin-top: 21px;
+    margin-left: 23px;
+}
+.Searchicon {
+   margin-top: 29px;
+   margin-left: 36px;
+
+}
+.IstTxT {
+ 
+    height: 35px;
+    display: inline-block;
+    color: #7E8898;
+    font-size: 16px;
+
+}
+.Divfrtxt {
+    display: inline-block;
+    width: 335px;
+    margin-left: 35px;
+}
+.txtidkeven {
+    color: #3F4145;
+    font-size: 20px;
+margin-top: 21px;
+margin-left: 29px;
+
+}
+.Check {
+   margin-top: 23px;
+   margin-left: 38px;
+}
+.Checktxt {
+    display: inline-block;
+    color: #7E8898;
+}
+.Checktxt2 {
+    width: 335px;
+    display: inline-block;
+    margin-left: 21px;
+}
+.fbbut2 {
+    margin-top: 143px;
+ 
+
+}
+.linebut22 {
+    margin-left: 41px;
+}
+.ytbut2 {
+    margin-left: 41px;
+}
+.footer2 {
+    margin-left: 194px;
+}
+.Divcontacts {
+    height: 735px;
+    background-color: #E7E7E7;
+}
+.contactinf {
+    color: #4E6FAE;
+font-size: 36px;
+display: inline-block;
+margin-top: 93px;
+margin-left: 162px;
+vertical-align: top;
+
+}
+.misamarti {
+    display: inline-block;
+}
+.navcont {
+    display: inline-block;
+    margin-left: 162px;
+    vertical-align: top;
+}
+.map {
+    width: 944;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 80px;
+}
+.adono {
+    display: inline-block;
+}
